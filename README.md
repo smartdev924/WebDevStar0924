@@ -3,7 +3,7 @@
 
   [gmail]: mailto:jeremycalvin90@gmail.com  
      
-  Hi, I'm 🥇Jeremy Calvin🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
+  Hi, I'm 🥇Senior Web and Mobile Developer🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
 
 My major skills are web and mobile application front-end development. I have good experience with Vue and Nuxt, React, Angular, Flutter, etc.
 
